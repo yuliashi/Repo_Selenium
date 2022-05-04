@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c09fa43f-c2ce-401a-bb16-d4f04a82b8dc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2847BtdJgGa21W2sebjjTjmxsdp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="TestNG.Selenium_homework3.darkskyTempConversion">
+    <configuration name="Selenium_homework2.checkFacebookSignUpForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework2" />
+      <option name="METHOD_NAME" value="checkFacebookSignUpForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_homework2.testLogInButton" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework2" />
+      <option name="METHOD_NAME" value="testLogInButton" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_homework3.darkskyTempConversion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework3" />
+      <option name="METHOD_NAME" value="darkskyTempConversion" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_homework3.verifyCurrentDate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework3" />
+      <option name="METHOD_NAME" value="verifyCurrentDate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_homework3.verifyOptionSelection" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Repo_Selenium_project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework3" />
+      <option name="METHOD_NAME" value="verifyOptionSelection" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Selenium_homework3.darkskyTempConversion" />
+        <item itemvalue="TestNG.Selenium_homework3.verifyCurrentDate" />
+        <item itemvalue="TestNG.Selenium_homework3.verifyOptionSelection" />
+        <item itemvalue="TestNG.Selenium_homework2.checkFacebookSignUpForm" />
+        <item itemvalue="TestNG.Selenium_homework2.testLogInButton" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c09fa43f-c2ce-401a-bb16-d4f04a82b8dc" name="Changes" comment="" />
+      <created>1650463880625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650463880625</updated>
+    </task>
+    <servers />
+  </component>
+</project>
