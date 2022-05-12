@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c09fa43f-c2ce-401a-bb16-d4f04a82b8dc" name="Changes" comment="" />
+    <list default="true" id="c09fa43f-c2ce-401a-bb16-d4f04a82b8dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Practice/Selenium_homework3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Practice/Selenium_homework3.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +41,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="TestNG.Selenium_homework3.darkskyTempConversion">
-    <configuration name="Selenium_homework2.checkFacebookSignUpForm" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Test_check">
+    <configuration name="Test_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Test_check" />
       <module name="Repo_Selenium_project" />
       <extension name="coverage">
         <pattern>
@@ -47,17 +51,11 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Practice" />
-      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework2" />
-      <option name="METHOD_NAME" value="checkFacebookSignUpForm" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_homework2.testLogInButton" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JavaSeleniumTest.darkskyTempConversion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Repo_Selenium_project" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +64,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Practice" />
-      <option name="MAIN_CLASS_NAME" value="Practice.Selenium_homework2" />
-      <option name="METHOD_NAME" value="testLogInButton" />
+      <option name="MAIN_CLASS_NAME" value="Practice.JavaSeleniumTest" />
+      <option name="METHOD_NAME" value="darkskyTempConversion" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_check" />
+        <item itemvalue="TestNG.JavaSeleniumTest.darkskyTempConversion" />
         <item itemvalue="TestNG.Selenium_homework3.darkskyTempConversion" />
         <item itemvalue="TestNG.Selenium_homework3.verifyCurrentDate" />
         <item itemvalue="TestNG.Selenium_homework3.verifyOptionSelection" />
-        <item itemvalue="TestNG.Selenium_homework2.checkFacebookSignUpForm" />
-        <item itemvalue="TestNG.Selenium_homework2.testLogInButton" />
       </list>
     </recent_temporary>
   </component>
